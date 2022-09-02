@@ -5,3 +5,4 @@
 ## *ARTHI KOMMA*
 
 - ***Contact Info***
+   > *Mail id - arthi8651@gmail.com*
