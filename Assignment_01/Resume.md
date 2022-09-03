@@ -5,6 +5,8 @@
 ## *ARTHI KOMMA*
 
 - ***Contact Info***
+   > *Contact number - (###)-###-##95*
+   > 
    > *Mail id - arthi8651@gmail.com*
    > 
    > *Linkedin profile - https://www.linkedin.com/in/arthi-komma-07874b1b9*
@@ -33,13 +35,15 @@
    > 6. *End - to - End functional testing and writing unit test cases for the implemented design of interface for analysing efficiency of the module to handle the load of transmision of records.*
 
  - ***Business Skills***
-   > 1. *Strategic & Tactical Planning*
+   > 1. *Enthusiastics towards learning new things.*
    >
-   > 2. *Opportunity Identification*
+   > 2. *Strategic & Tactical Planning*
+   >
+   > 3. *Opportunity Identification*
    > 
-   > 3. *Team Building & Leadership*
+   > 4. *Team Building & Leadership*
    >
-   > 4. *Process Improvements & Creation*
+   > 5. *Process Improvements & Creation*
  
  - ***Technical/Computer Skills***
    > 1. ***Programming Languages*** *- C/Embedded C, Java, Python, Javascript, EDI(Electronic Data Interchange) Formats* 
@@ -58,3 +62,17 @@
   > 3. *Certified for completing an Internship on __Study of PLC in Industrial Machine Tools__ at __BHEL(Bharath Heavy Electronics Ltd)__.*
   >
   > 4. *Certified for completing an internship at __ECIL(Electronics Corporation Of India Ltd)__ and worked on an IOT based project titled __Temperature and Humidity Sensing Using IOT__.*
+
+
+- ***Social Activities***
+  > 1. *Remained as an Animal Rights Activist in my college and volunteered a group to rescue stray dogs in my locality.*
+  >
+  > 2. *Organized various cultural/sports events and was also the prime member of arts club in my school.*
+
+
+- ***Hobbies***
+  > 1. *Listening to music.*
+  > 
+  > 2. *Cooking various cusinies.*
+  >
+  > 3. *Exploring differnet countries and places.*
