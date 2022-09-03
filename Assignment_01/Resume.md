@@ -31,3 +31,7 @@
    > 5. Focused Implementation of  developing interface using agile methodology with in the  sprint schedule.
    > 
    > 6. End - to - End functional testing and writing unit test cases for the Implemented design of Interface for analysing efficiency of the module to handle the load of transmision of records.
+
+ - ***Business Skills***
+   > 1. *Communication Skills*
+    
