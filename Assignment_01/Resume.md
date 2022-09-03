@@ -5,7 +5,7 @@
 ## *ARTHI KOMMA*
 
 - ***Contact Info***
-   > *Contact number - (###)-###-##95*
+   > *Contact number - (###)- ### - ##95*
    > 
    > *Mail id - arthi8651@gmail.com*
    > 
