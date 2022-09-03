@@ -13,6 +13,6 @@
    > *With a passion for delivering valuable data through analytical functions and data retrieval methods. Committed to helping companies advance by helping them to    develop strategic plans using predective modelling and findings.*
  
  - ***Educational Background***
-   > - ***University Of Maryland At Baltimore County (Aug 2022 - Present)***
+   >  ***University Of Maryland At Baltimore County (Aug 2022 - Present)***
    >
    >       *Master's in Data Science.*
