@@ -15,4 +15,4 @@
  - ***Educational Background***
    > - ***University Of Maryland At Baltimore County (Aug 2022 - Present)***
    >
-   >         + * Master's in Data Science.*
+   >        * Master's in Data Science.*
