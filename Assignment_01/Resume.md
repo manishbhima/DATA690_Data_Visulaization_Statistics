@@ -28,9 +28,9 @@
    >
    > 3. *Report generation for billing and scheduling records of the patients.* 
    > 
-   > 4. *Data Integration using Azure Cloud with Azure table storage services.*
+   > 4. *Data integration using Azure Cloud with Azure table storage services.*
    >  
-   > 5. *Focused Implementation of  developing interface using agile methodology with in the  sprint schedule.*
+   > 5. *Focused implementation of developing interface using agile methodology within the sprint schedule.*
    > 
    > 6. *End - to - End functional testing and writing unit test cases for the implemented design of interface for analysing efficiency of the module to handle the load of transmision of records.*
 
