@@ -18,7 +18,7 @@
    >  ***Geethanjali College Of Engineering And Technology (Aug 2016 - Sept 2020)***  *- Bachelors in Electronics & Communication Engineering*   
  
  - ***Employment Experience***
-   >  ***Cognizant Technology Private Ltd (Mar 2021 - Jun 2022)***      *- Worked as __Programmer Analyst Trainee___* 
+   >  ***Cognizant Technology Private Ltd (Mar 2021 - Jun 2022)***      *- Worked as __Programmer Analyst Trainee__* 
    >  
    > 1. *Designing Interface for the transmission and translation of data between various facilities.*
    > 
