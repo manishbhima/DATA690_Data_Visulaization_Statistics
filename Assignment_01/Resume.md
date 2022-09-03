@@ -7,4 +7,7 @@
 - ***Contact Info***
    > *Mail id - arthi8651@gmail.com .*
    > 
-   > *Linkedin - https://www.linkedin.com/in/arthi-komma-07874b1b9*
+   > *Linkedin profile - https://www.linkedin.com/in/arthi-komma-07874b1b9*
+
+- ***Career Objective***
+   > *With a passion for delivering valuable data through analytical functions and data retrieval methods. Committed to helping companies advance by helping them to    achieve
