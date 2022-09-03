@@ -19,3 +19,15 @@
  
  - ***Employment Experience***
    >  ***Cognizant Technology Private Ltd (Mar 2021 - Jun 2022)***      *- Worked as Programmer Analyst Trainee* 
+   >  
+   > 1. Designing Interface for the transmission and translation of data between various facilities.
+   > 
+   > 2. Implementing various logics for translation of data into formats like JSON, XML and CSV for the user end view perspective. 
+   >
+   > 3. Report generation for billing and scheduling records of the patients. 
+   > 
+   > 4. Data Integration using Azure Cloud with Azure table storage services.
+   >  
+   > 5. Focused Implementation of  developing interface using agile methodology with in the  sprint schedule.
+   > 
+   > 6. End - to - End functional testing and writing unit test cases for the Implemented design of Interface for analysing efficiency of the module to handle the load of transmision of records.
