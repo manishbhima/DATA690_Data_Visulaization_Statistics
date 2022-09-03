@@ -33,5 +33,28 @@
    > 6. *End - to - End functional testing and writing unit test cases for the implemented design of interface for analysing efficiency of the module to handle the load of transmision of records.*
 
  - ***Business Skills***
-   > 1. *Communication Skills*
-    
+   > 1. *Strategic & Tactical Planning*
+   >
+   > 2. *Opportunity Identification*
+   > 
+   > 3. *Team Building & Leadership*
+   >
+   > 4. *Process Improvements & Creation*
+ 
+ - ***Technical/Computer Skills***
+   > 1. ***Programming Languages*** *- C/Embedded C, Java, Python, Javascript, EDI(Electronic Data Interchange) Formats* 
+   >
+   > 2. ***Web Technologies***  *- HTML, CSS, XML, JSON*
+   >
+   > 3. ***Database Languages***  *- Oracle SQL*
+   >
+   > 4. ***Technologies***  *- Qvera Interface Engine, Microsoft Power BI* 
+
+- ***Awards & Certifications***
+  > 1. *Received an __Excellency Award__ and a stipend of __500$__ in 2014 for my profound performance in academics.* 
+  >
+  > 2. *Certified as __Microsoft Technology Associate__ for successfully completing the internship on __Introduction to Programming using Python__.*
+  >
+  > 3. *Certified for completing an Internship on __Study of PLC in Industrial Machine Tools__ at __BHEL(Bharath Heavy Electronics Ltd)__.*
+  >
+  > 4. *Certified for completing an internship at __ECIL(Electronics Corporation Of India Ltd)__ and worked on an IOT based project titled __Temperature and Humidity Sensing Using IOT__.*
