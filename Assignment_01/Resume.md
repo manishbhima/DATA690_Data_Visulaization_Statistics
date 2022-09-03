@@ -35,7 +35,7 @@
    > 6. *End - to - End functional testing and writing unit test cases for the implemented design of interface for analysing efficiency of the module to handle the load of transmision of records.*
 
  - ***Business Skills***
-   > 1. *Enthusiastics towards learning new things.*
+   > 1. *Enthusiastic towards learning new things.*
    >
    > 2. *Strategic & Tactical Planning*
    >
